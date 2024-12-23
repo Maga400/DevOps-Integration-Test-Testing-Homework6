@@ -1,0 +1,6 @@
+@DevOps_Integration_Test_Testing_Homework6_HostAddress = http://localhost:5038
+
+GET {{DevOps_Integration_Test_Testing_Homework6_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
